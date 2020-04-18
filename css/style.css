@@ -1,0 +1,30 @@
+canvas {
+    border:1px solid grey;
+    background-color: #F781F3;
+    color: black;
+}
+
+.gameButton
+{
+	height: 30px;
+	width: 100px;
+	margin-right: 20px;
+	background-color:  yellow;
+	margin-top:20px;
+}
+
+.gameButton2
+{
+	height: 30px;
+	width: 100px;
+	margin-right: 20px;
+	background-color:  #8181F7;
+	margin-top:20px;
+}
+
+	
+body
+{
+	text-align: center;
+	
+}
